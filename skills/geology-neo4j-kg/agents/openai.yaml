@@ -1,0 +1,4 @@
+interface:
+  display_name: "Geology Neo4j KG"
+  short_description: "Geology report to Neo4j KG workflow"
+  default_prompt: "Use $geology-neo4j-kg to turn geology reports into a reviewed Neo4j knowledge-graph increment."
