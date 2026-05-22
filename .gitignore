@@ -1,0 +1,36 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local archives / exports
+*.zip
+*.7z
+*.rar
+
+# Temporary project outputs
+tmp/
+temp/
+out/
+dist/
+build/
+
+# Local Neo4j / data artifacts
+neo4j_export/
+extractions/
+normalization/
+sources/
+
